@@ -1,0 +1,9 @@
+Building Two
+
+See doc/readme-qt.rst for instructions on building Two QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Two.
+
+See doc/build-*.txt for instructions on building Twod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Two.
